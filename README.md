@@ -15,7 +15,7 @@ A program to find the differences in "spot the differences" pictures
    between the two images is. You can also tweak the color of the "white out" effect so that the changes are shown more 
    clearly.
    
-   I cant take all the credit for this. I had to do some research on how to get the RGB values of specific pixel in a
+   I cant take all the credit for this. I had to do some research on how to get the RGB values of a specific pixel in a
    jpg image. Alvin Alexander had a great example on his blog, which I used and it is highly effective. For more visit...
    
    http://alvinalexander.com/blog/post/java/getting-rgb-values-for-each-pixel-in-image-using-java-bufferedi
