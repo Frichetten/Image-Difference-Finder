@@ -32,3 +32,5 @@ A program to find the differences in "spot the differences" pictures
    What started out as my first program working with images was a success. I have to say, nothing was more satisfying 
    than seeing that the program found changes that even I didn't see after staring at the picture for 10 minutes.
    -Nicholas Frichette 8/27/2015
+   
+   **(Project complete - no further improvements will be made)**
